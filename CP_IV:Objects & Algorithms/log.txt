@@ -1,0 +1,11 @@
+Account created
+Balance changed to 20.0
+Balance checked at 20.0
+Account created
+Account created
+Account created
++20.0: 20.0
+Balance checked at 20.0
+-5: 15.0
+Balance checked at 15.0
+-3: 12.0
